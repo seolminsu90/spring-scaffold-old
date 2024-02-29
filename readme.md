@@ -1,21 +1,7 @@
-## Spring boot 기반 기본 프로젝트
+## Spring boot 기반 기본 프로젝트(이전 세대)
+<p>${\large{\color{#DD6565}Boot3버전 이후로 변한게 너무 많아, 아카이브 처리 후 신규 구축 시 참고만 하기}}$</p>
 
 ---
-## Spring scaffold authenfication gateway
-
-게이트웨이가 모든 권한처리까지 하는 구조일 때 DB기반 동적 라우팅 로드 샘플
-Spring cloud gateway + dynamic routing sample
-
-- netty reactor 기반 security 샘플
-- 동적 route source
-- 기타 설정은 생략함
-- spring data r2dbc 관련 메모
-
-## Spring scaffold boot3
-
-Spring 3.x 기반의 샘플 모음
-
-- token 인증 방식 프로젝트 샘플
 
 ## Spring scaffold
 
